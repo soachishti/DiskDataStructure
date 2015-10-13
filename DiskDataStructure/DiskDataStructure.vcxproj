@@ -81,7 +81,7 @@
   <ItemGroup>
     <ClCompile Include="BTree.cpp" />
     <ClCompile Include="FileAllocUsage.cpp" />
-    <ClCompile Include="FileAlloc.cpp" />
+    <ClCompile Include="FileAllocLinkedList.cpp" />
     <ClCompile Include="LinkedList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
